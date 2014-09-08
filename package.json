@@ -1,7 +1,7 @@
 {
 	"name": "periodicjs.core.extensions",
 	"description": "extension helper functions for periodicjs cms framework",
-	"version": "1.5.0",
+	"version": "1.5.1",
 	"main": "index.js",
 	"engines": {
 		"node": ">=0.10.x"
@@ -21,7 +21,7 @@
 	"dependencies": {
 		"async": "0.9.0",
 		"fs-extra": "0.9.1",
-		"npm": "1.4.15",
+		"npm": ">=1.4.15",
 		"semver": "2.3.0",
 		"periodicjs.core.utilities":"1.1.1"
 	},
