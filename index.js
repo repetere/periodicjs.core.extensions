@@ -1,4 +1,3 @@
-
 /*
  * manuscript
  * http://github.com/typesettin/periodic.core.extensions

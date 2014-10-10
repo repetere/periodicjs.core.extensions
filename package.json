@@ -23,7 +23,7 @@
 		"fs-extra": "0.9.1",
 		"npm": ">=1.4.15",
 		"semver": "2.3.0",
-		"periodicjs.core.utilities":"1.1.1"
+		"periodicjs.core.utilities": "~1.1.1"
 	},
 	"devDependencies": {
 		"chai": "1.9.1",
