@@ -1,7 +1,7 @@
 {
   "name": "periodicjs.core.extensions",
   "description": "extension helper functions for periodicjs cms framework",
-  "version": "6.0.0",
+  "version": "5.9.0",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
@@ -11,6 +11,13 @@
     "email": "yaw.etse@gmail.com",
     "url": "http://about.me/yawjosephetse"
   },
+  "contributors": [
+    {
+      "name": "Jan Bialostok",
+      "email": "janbialostok@gmail.com",
+      "url": "https://github.com/janbialostok"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/typesettin/periodicjs.core.extensions.git"
