@@ -1,7 +1,7 @@
 {
   "name": "periodicjs.core.extensions",
   "description": "extension helper functions for periodicjs cms framework",
-  "version": "5.9.2",
+  "version": "5.9.3",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
@@ -13,9 +13,8 @@
   },
   "contributors": [
     {
-      "name": "Jan Bialostok",
-      "email": "janbialostok@gmail.com",
-      "url": "https://github.com/janbialostok"
+      "name": "Yaw Joseph Etse",
+      "email": "yaw.etse@gmail.com"
     }
   ],
   "repository": {
@@ -55,29 +54,23 @@
     "Content Management System",
     "Periodic Decoupled Framework"
   ],
-  "contributors": [
-    {
-      "name": "Yaw Joseph Etse",
-      "email": "yaw.etse@gmail.com"
-    }
-  ],
   "gitHead": "fdbf9625a2aeb350b1b345b0bb2781881dd5b097",
   "bugs": {
     "url": "https://github.com/typesettin/periodicjs.core.extensions/issues"
   },
   "homepage": "https://github.com/typesettin/periodicjs.core.extensions#readme",
-  "_id": "periodicjs.core.extensions@4.4.3",
-  "_shasum": "5fd7a9e2c3ba40443229795491229cfb456d283a",
-  "_from": "periodicjs.core.extensions@4.4.3",
-  "_npmVersion": "2.9.0",
-  "_nodeVersion": "0.10.31",
+  "_id": "periodicjs.core.extensions@5.9.2",
+  "_shasum": "b76705a083f8302acac85abd262f1abf199672ba",
+  "_from": "periodicjs.core.extensions@5.9.2",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.6",
   "_npmUser": {
     "name": "yawetse",
     "email": "yaw.etse@gmail.com"
   },
   "dist": {
-    "shasum": "5fd7a9e2c3ba40443229795491229cfb456d283a",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-4.4.3.tgz"
+    "shasum": "b76705a083f8302acac85abd262f1abf199672ba",
+    "tarball": "http://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.2.tgz"
   },
   "maintainers": [
     {
@@ -86,6 +79,6 @@
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-4.4.3.tgz",
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.2.tgz",
   "readme": "ERROR: No README data found!"
 }
