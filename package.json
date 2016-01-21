@@ -1,7 +1,7 @@
 {
   "name": "periodicjs.core.extensions",
   "description": "extension helper functions for periodicjs cms framework",
-  "version": "5.9.4",
+  "version": "5.9.5",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
@@ -59,9 +59,9 @@
     "url": "https://github.com/typesettin/periodicjs.core.extensions/issues"
   },
   "homepage": "https://github.com/typesettin/periodicjs.core.extensions#readme",
-  "_id": "periodicjs.core.extensions@5.9.3",
-  "_shasum": "1f84ddd135d5613660a451acad79250e6da0a73a",
-  "_from": "periodicjs.core.extensions@5.9.3",
+  "_id": "periodicjs.core.extensions@5.9.4",
+  "_shasum": "ad8766c41eeb4c7016c8c9c191ea94dd5e55d6ca",
+  "_from": "periodicjs.core.extensions@5.9.4",
   "_npmVersion": "2.11.2",
   "_nodeVersion": "0.12.6",
   "_npmUser": {
@@ -69,8 +69,8 @@
     "email": "yaw.etse@gmail.com"
   },
   "dist": {
-    "shasum": "1f84ddd135d5613660a451acad79250e6da0a73a",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.3.tgz"
+    "shasum": "ad8766c41eeb4c7016c8c9c191ea94dd5e55d6ca",
+    "tarball": "http://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.4.tgz"
   },
   "maintainers": [
     {
@@ -79,5 +79,6 @@
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.3.tgz"
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.4.tgz",
+  "readme": "ERROR: No README data found!"
 }
