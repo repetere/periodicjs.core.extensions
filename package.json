@@ -1,10 +1,10 @@
 {
   "name": "periodicjs.core.extensions",
   "description": "extension helper functions for periodicjs cms framework",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "main": "index.js",
   "engines": {
-    "node": ">=0.10.x"
+    "node": ">=4.2.x"
   },
   "author": {
     "name": "Yaw Joseph Etse",
@@ -13,8 +13,12 @@
   },
   "contributors": [
     {
-      "name": "Yaw Joseph Etse",
-      "email": "yaw.etse@gmail.com"
+      "email": "janbialostok@gmail.com",
+      "name": "janbialostok"
+    },
+    {
+      "email": "yaw.etse@gmail.com",
+      "name": "yawetse"
     }
   ],
   "repository": {
@@ -59,26 +63,11 @@
     "url": "https://github.com/typesettin/periodicjs.core.extensions/issues"
   },
   "homepage": "https://github.com/typesettin/periodicjs.core.extensions#readme",
-  "_id": "periodicjs.core.extensions@5.9.4",
-  "_shasum": "ad8766c41eeb4c7016c8c9c191ea94dd5e55d6ca",
-  "_from": "periodicjs.core.extensions@5.9.4",
-  "_npmVersion": "2.11.2",
-  "_nodeVersion": "0.12.6",
-  "_npmUser": {
-    "name": "yawetse",
-    "email": "yaw.etse@gmail.com"
-  },
-  "dist": {
-    "shasum": "ad8766c41eeb4c7016c8c9c191ea94dd5e55d6ca",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.4.tgz"
-  },
   "maintainers": [
     {
       "name": "yawetse",
       "email": "yaw.etse@gmail.com"
     }
   ],
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.extensions/-/periodicjs.core.extensions-5.9.4.tgz",
-  "readme": "ERROR: No README data found!"
+  "directories": {}
 }
