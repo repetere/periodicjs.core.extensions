@@ -1,11 +1,12 @@
 {
   "name": "periodicjs.core.extensions",
   "description": "extension helper functions for periodicjs cms framework",
-  "version": "6.2.0",
+  "version": "6.3.0",
   "main": "index.js",
   "license": "MIT",
   "engines": {
-    "node": "^6.x"
+    "node": "^6.x",
+    "npm": ">=3.8.x"
   },
   "author": {
     "name": "Yaw Joseph Etse",
